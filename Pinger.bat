@@ -1,5 +1,5 @@
 @echo off
-title IPPinger ~ discord: MaxTermux
+title IP Pinger ~ discord: MaxTermux
 cls
 color 5                                            
 echo ######################################## 
