@@ -7,13 +7,13 @@ Welcome to **IP Pinger** by MaxTermux! An elegant and efficient solution to moni
 ## 🎉 Features
 
 - **Fast and Reliable**: Lightning-quick pings to check IP availability.
-- **Cross-Platform**: Seamlessly runs on Termux, Linux, and Windows.
-- **User-Friendly**: Simple and intuitive command-line interface.
-- **Customizable**: Tailor the settings to fit your needs.
+- **Platform**: Windows.
+- **User-Friendly**: Simple and easy interface.
+- **Customizable**: edit with txt editor to fit your needs.
 
 ## 🚀 Usage
 
-Easily ping any IP address with customizable options. just fill in the target ip
+Easily ping any IP address. just fill in the target ip
 
 **Eductational_purpose.only**.
 
